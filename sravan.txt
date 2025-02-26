@@ -1,0 +1,2 @@
+Day -1
+git and github cofiguration and text file push from local to remote repository 
